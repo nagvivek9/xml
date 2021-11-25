@@ -1,0 +1,23 @@
+{
+  "name": "xml-generator",
+  "version": "1.0.0",
+  "description": "xmlFileGenerator",
+  "main": "index.js",
+  "dependencies": {
+    "xml": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagvivek9/xml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagvivek9/xml/issues"
+  },
+  "homepage": "https://github.com/nagvivek9/xml#readme"
+}

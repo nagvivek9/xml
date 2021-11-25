@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toys decade="80s" locale="US">
+    <toy>Transformers</toy>
+    <toy>GI Joe</toy>
+    <toy>He-man</toy>
+</toys>
+<cars>
+    <sedan>
+        <model>swift</model>
+        <model>amaze</model>
+    </sedan>
+    <xuv>mahindra700</xuv>
+</cars>
