@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<toys decade="80s" locale="US">
-    <toy>Transformers</toy>
-    <toy>GI Joe</toy>
-    <toy>He-man</toy>
-</toys>
-<cars>
-    <sedan>
-        <model>swift</model>
-        <model>amaze</model>
-    </sedan>
-    <xuv>mahindra700</xuv>
-</cars>
+<Message from="Samsung" sent="20-20-21" sequenceId="1">
+    <contractInsurances>
+        <contractInsurance>
+            <policyID>1</policyID>
+            <policyHolderName>Nagendra</policyHolderName>
+            <validity>lifetime</validity>
+        </contractInsurance>
+        <contractInsurance>
+            <policyID>2</policyID>
+            <policyHolderName>Venkata</policyHolderName>
+            <validity>lifetime</validity>
+        </contractInsurance>
+        <contractInsurance>
+            <policyID>3</policyID>
+            <policyHolderName>Mantina</policyHolderName>
+            <validity>lifetime</validity>
+        </contractInsurance>
+    </contractInsurances>
+</Message>
